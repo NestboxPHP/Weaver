@@ -1,0 +1,17 @@
+{
+    "name": "nestboxphp/weaver",
+    "description": "An API endpoint management system for easy REST API building",
+    "type": "library",
+    "require": {
+        "nestboxphp/nestbox": "^0.0.3"
+    },
+    "require-dev": {
+        "nestboxphp/nestbox": "^0.0.3"
+    },
+    "license": "AGPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "NestboxPHP\\Weaver\\": "src/"
+        }
+    }
+}
